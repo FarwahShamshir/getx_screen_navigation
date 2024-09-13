@@ -10,6 +10,12 @@ Named routes with argument passing between screens.
 Integration of Lottie animations for a visually appealing user experience.
 Background image with low opacity to enhance the visual design without overpowering content.
 Inspirational quotes on travel, time, and programming displayed on each screen.
+![1](https://github.com/user-attachments/assets/1eb154c0-7f21-47f8-9ddb-fb873a4e9055)
+![2](https://github.com/user-attachments/assets/454e1d6d-8037-4a10-954e-dc3cd94f6713)
+![3](https://github.com/user-attachments/assets/a99c4768-9409-42bf-b8b1-c0d6c6f1434a)
+
+https://github.com/user-attachments/assets/a1ef4573-9710-4845-af22-4af59ed4e442
+
 
 
 
